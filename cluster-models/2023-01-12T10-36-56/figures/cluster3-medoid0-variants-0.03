@@ -1,0 +1,151 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="7 traces" shape=plaintext]
+	"A_Create Application_var0_step0" [label="A_Create Application" shape=box style=filled]
+	"W_Complete application_var0_step1" [label="W_Complete application" shape=box style=filled]
+	"A_Create Application_var0_step0" -> "W_Complete application_var0_step1"
+	"W_Complete application_var0_step2" [label="W_Complete application" shape=box style=filled]
+	"W_Complete application_var0_step1" -> "W_Complete application_var0_step2"
+	A_Concept_var0_step3 [label=A_Concept shape=box style=filled]
+	"W_Complete application_var0_step2" -> A_Concept_var0_step3
+	A_Accepted_var0_step4 [label=A_Accepted shape=box style=filled]
+	A_Concept_var0_step3 -> A_Accepted_var0_step4
+	"O_Create Offer_var0_step5" [label="O_Create Offer" shape=box style=filled]
+	A_Accepted_var0_step4 -> "O_Create Offer_var0_step5"
+	O_Created_var0_step6 [label=O_Created shape=box style=filled]
+	"O_Create Offer_var0_step5" -> O_Created_var0_step6
+	"O_Sent (mail and online)_var0_step7" [label="O_Sent (mail and online)" shape=box style=filled]
+	O_Created_var0_step6 -> "O_Sent (mail and online)_var0_step7"
+	"W_Complete application_var0_step8" [label="W_Complete application" shape=box style=filled]
+	"O_Sent (mail and online)_var0_step7" -> "W_Complete application_var0_step8"
+	"W_Call after offers_var0_step9" [label="W_Call after offers" shape=box style=filled]
+	"W_Complete application_var0_step8" -> "W_Call after offers_var0_step9"
+	"W_Call after offers_var0_step10" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step9" -> "W_Call after offers_var0_step10"
+	A_Complete_var0_step11 [label=A_Complete shape=box style=filled]
+	"W_Call after offers_var0_step10" -> A_Complete_var0_step11
+	"W_Call after offers_var0_step12" [label="W_Call after offers" shape=box style=filled]
+	A_Complete_var0_step11 -> "W_Call after offers_var0_step12"
+	"W_Call after offers_var0_step13" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step12" -> "W_Call after offers_var0_step13"
+	"W_Call after offers_var0_step14" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step13" -> "W_Call after offers_var0_step14"
+	"W_Call after offers_var0_step15" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step14" -> "W_Call after offers_var0_step15"
+	"W_Validate application_var0_step16" [label="W_Validate application" shape=box style=filled]
+	"W_Call after offers_var0_step15" -> "W_Validate application_var0_step16"
+	"W_Validate application_var0_step17" [label="W_Validate application" shape=box style=filled]
+	"W_Validate application_var0_step16" -> "W_Validate application_var0_step17"
+	A_Validating_var0_step18 [label=A_Validating shape=box style=filled]
+	"W_Validate application_var0_step17" -> A_Validating_var0_step18
+	O_Returned_var0_step19 [label=O_Returned shape=box style=filled]
+	A_Validating_var0_step18 -> O_Returned_var0_step19
+	"W_Validate application_var0_step20" [label="W_Validate application" shape=box style=filled]
+	O_Returned_var0_step19 -> "W_Validate application_var0_step20"
+	A_Denied_var0_step21 [label=A_Denied shape=box style=filled]
+	"W_Validate application_var0_step20" -> A_Denied_var0_step21
+	O_Refused_var0_step22 [label=O_Refused shape=box style=filled]
+	A_Denied_var0_step21 -> O_Refused_var0_step22
+	"W_Validate application_var0_step23" [label="W_Validate application" shape=box style=filled]
+	O_Refused_var0_step22 -> "W_Validate application_var0_step23"
+	start_node_var1 [label="8 traces" shape=plaintext]
+	"A_Create Application_var1_step0" [label="A_Create Application" shape=box style=filled]
+	A_Concept_var1_step1 [label=A_Concept shape=box style=filled]
+	"A_Create Application_var1_step0" -> A_Concept_var1_step1
+	"W_Complete application_var1_step2" [label="W_Complete application" shape=box style=filled]
+	A_Concept_var1_step1 -> "W_Complete application_var1_step2"
+	"W_Complete application_var1_step3" [label="W_Complete application" shape=box style=filled]
+	"W_Complete application_var1_step2" -> "W_Complete application_var1_step3"
+	"W_Complete application_var1_step4" [label="W_Complete application" shape=box style=filled]
+	"W_Complete application_var1_step3" -> "W_Complete application_var1_step4"
+	"W_Complete application_var1_step5" [label="W_Complete application" shape=box style=filled]
+	"W_Complete application_var1_step4" -> "W_Complete application_var1_step5"
+	A_Accepted_var1_step6 [label=A_Accepted shape=box style=filled]
+	"W_Complete application_var1_step5" -> A_Accepted_var1_step6
+	"O_Create Offer_var1_step7" [label="O_Create Offer" shape=box style=filled]
+	A_Accepted_var1_step6 -> "O_Create Offer_var1_step7"
+	O_Created_var1_step8 [label=O_Created shape=box style=filled]
+	"O_Create Offer_var1_step7" -> O_Created_var1_step8
+	"O_Sent (mail and online)_var1_step9" [label="O_Sent (mail and online)" shape=box style=filled]
+	O_Created_var1_step8 -> "O_Sent (mail and online)_var1_step9"
+	"W_Complete application_var1_step10" [label="W_Complete application" shape=box style=filled]
+	"O_Sent (mail and online)_var1_step9" -> "W_Complete application_var1_step10"
+	"W_Call after offers_var1_step11" [label="W_Call after offers" shape=box style=filled]
+	"W_Complete application_var1_step10" -> "W_Call after offers_var1_step11"
+	"W_Call after offers_var1_step12" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var1_step11" -> "W_Call after offers_var1_step12"
+	A_Complete_var1_step13 [label=A_Complete shape=box style=filled]
+	"W_Call after offers_var1_step12" -> A_Complete_var1_step13
+	"W_Call after offers_var1_step14" [label="W_Call after offers" shape=box style=filled]
+	A_Complete_var1_step13 -> "W_Call after offers_var1_step14"
+	"W_Call after offers_var1_step15" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var1_step14" -> "W_Call after offers_var1_step15"
+	"W_Call after offers_var1_step16" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var1_step15" -> "W_Call after offers_var1_step16"
+	"W_Call after offers_var1_step17" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var1_step16" -> "W_Call after offers_var1_step17"
+	"W_Validate application_var1_step18" [label="W_Validate application" shape=box style=filled]
+	"W_Call after offers_var1_step17" -> "W_Validate application_var1_step18"
+	"W_Validate application_var1_step19" [label="W_Validate application" shape=box style=filled]
+	"W_Validate application_var1_step18" -> "W_Validate application_var1_step19"
+	A_Validating_var1_step20 [label=A_Validating shape=box style=filled]
+	"W_Validate application_var1_step19" -> A_Validating_var1_step20
+	O_Returned_var1_step21 [label=O_Returned shape=box style=filled]
+	A_Validating_var1_step20 -> O_Returned_var1_step21
+	"W_Validate application_var1_step22" [label="W_Validate application" shape=box style=filled]
+	O_Returned_var1_step21 -> "W_Validate application_var1_step22"
+	O_Accepted_var1_step23 [label=O_Accepted shape=box style=filled]
+	"W_Validate application_var1_step22" -> O_Accepted_var1_step23
+	A_Pending_var1_step24 [label=A_Pending shape=box style=filled]
+	O_Accepted_var1_step23 -> A_Pending_var1_step24
+	"W_Validate application_var1_step25" [label="W_Validate application" shape=box style=filled]
+	A_Pending_var1_step24 -> "W_Validate application_var1_step25"
+	start_node_var2 [label="10 traces" shape=plaintext]
+	"A_Create Application_var2_step0" [label="A_Create Application" shape=box style=filled]
+	"W_Complete application_var2_step1" [label="W_Complete application" shape=box style=filled]
+	"A_Create Application_var2_step0" -> "W_Complete application_var2_step1"
+	"W_Complete application_var2_step2" [label="W_Complete application" shape=box style=filled]
+	"W_Complete application_var2_step1" -> "W_Complete application_var2_step2"
+	A_Concept_var2_step3 [label=A_Concept shape=box style=filled]
+	"W_Complete application_var2_step2" -> A_Concept_var2_step3
+	A_Accepted_var2_step4 [label=A_Accepted shape=box style=filled]
+	A_Concept_var2_step3 -> A_Accepted_var2_step4
+	"O_Create Offer_var2_step5" [label="O_Create Offer" shape=box style=filled]
+	A_Accepted_var2_step4 -> "O_Create Offer_var2_step5"
+	O_Created_var2_step6 [label=O_Created shape=box style=filled]
+	"O_Create Offer_var2_step5" -> O_Created_var2_step6
+	"O_Sent (mail and online)_var2_step7" [label="O_Sent (mail and online)" shape=box style=filled]
+	O_Created_var2_step6 -> "O_Sent (mail and online)_var2_step7"
+	"W_Complete application_var2_step8" [label="W_Complete application" shape=box style=filled]
+	"O_Sent (mail and online)_var2_step7" -> "W_Complete application_var2_step8"
+	"W_Call after offers_var2_step9" [label="W_Call after offers" shape=box style=filled]
+	"W_Complete application_var2_step8" -> "W_Call after offers_var2_step9"
+	"W_Call after offers_var2_step10" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var2_step9" -> "W_Call after offers_var2_step10"
+	A_Complete_var2_step11 [label=A_Complete shape=box style=filled]
+	"W_Call after offers_var2_step10" -> A_Complete_var2_step11
+	"W_Call after offers_var2_step12" [label="W_Call after offers" shape=box style=filled]
+	A_Complete_var2_step11 -> "W_Call after offers_var2_step12"
+	"W_Call after offers_var2_step13" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var2_step12" -> "W_Call after offers_var2_step13"
+	"W_Call after offers_var2_step14" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var2_step13" -> "W_Call after offers_var2_step14"
+	"W_Call after offers_var2_step15" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var2_step14" -> "W_Call after offers_var2_step15"
+	"W_Validate application_var2_step16" [label="W_Validate application" shape=box style=filled]
+	"W_Call after offers_var2_step15" -> "W_Validate application_var2_step16"
+	"W_Validate application_var2_step17" [label="W_Validate application" shape=box style=filled]
+	"W_Validate application_var2_step16" -> "W_Validate application_var2_step17"
+	A_Validating_var2_step18 [label=A_Validating shape=box style=filled]
+	"W_Validate application_var2_step17" -> A_Validating_var2_step18
+	O_Returned_var2_step19 [label=O_Returned shape=box style=filled]
+	A_Validating_var2_step18 -> O_Returned_var2_step19
+	"W_Validate application_var2_step20" [label="W_Validate application" shape=box style=filled]
+	O_Returned_var2_step19 -> "W_Validate application_var2_step20"
+	O_Accepted_var2_step21 [label=O_Accepted shape=box style=filled]
+	"W_Validate application_var2_step20" -> O_Accepted_var2_step21
+	A_Pending_var2_step22 [label=A_Pending shape=box style=filled]
+	O_Accepted_var2_step21 -> A_Pending_var2_step22
+	"W_Validate application_var2_step23" [label="W_Validate application" shape=box style=filled]
+	A_Pending_var2_step22 -> "W_Validate application_var2_step23"
+}

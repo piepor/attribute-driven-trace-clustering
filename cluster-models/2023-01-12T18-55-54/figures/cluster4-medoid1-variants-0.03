@@ -1,0 +1,23 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="722 traces" shape=plaintext]
+	"Create Purchase Requisition Item_var0_step0" [label="Create Purchase Requisition Item" shape=box style=filled]
+	"Create Purchase Order Item_var0_step1" [label="Create Purchase Order Item" shape=box style=filled]
+	"Create Purchase Requisition Item_var0_step0" -> "Create Purchase Order Item_var0_step1"
+	start_node_var1 [label="912 traces" shape=plaintext]
+	"Create Purchase Order Item_var1_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	start_node_var2 [label="2107 traces" shape=plaintext]
+	"Create Purchase Requisition Item_var2_step0" [label="Create Purchase Requisition Item" shape=box style=filled]
+	"Create Purchase Order Item_var2_step1" [label="Create Purchase Order Item" shape=box style=filled]
+	"Create Purchase Requisition Item_var2_step0" -> "Create Purchase Order Item_var2_step1"
+	"Record Goods Receipt_var2_step2" [label="Record Goods Receipt" shape=box style=filled]
+	"Create Purchase Order Item_var2_step1" -> "Record Goods Receipt_var2_step2"
+	start_node_var3 [label="2551 traces" shape=plaintext]
+	"Create Purchase Order Item_var3_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Delete Purchase Order Item_var3_step1" [label="Delete Purchase Order Item" shape=box style=filled]
+	"Create Purchase Order Item_var3_step0" -> "Delete Purchase Order Item_var3_step1"
+	start_node_var4 [label="8149 traces" shape=plaintext]
+	"Create Purchase Order Item_var4_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Record Goods Receipt_var4_step1" [label="Record Goods Receipt" shape=box style=filled]
+	"Create Purchase Order Item_var4_step0" -> "Record Goods Receipt_var4_step1"
+}

@@ -1,0 +1,15 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="27 traces" shape=plaintext]
+	"Create Purchase Order Item_var0_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Record Goods Receipt_var0_step1" [label="Record Goods Receipt" shape=box style=filled]
+	"Create Purchase Order Item_var0_step0" -> "Record Goods Receipt_var0_step1"
+	"Record Goods Receipt_var0_step2" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step1" -> "Record Goods Receipt_var0_step2"
+	"Vendor creates invoice_var0_step3" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Goods Receipt_var0_step2" -> "Vendor creates invoice_var0_step3"
+	"Record Invoice Receipt_var0_step4" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var0_step3" -> "Record Invoice Receipt_var0_step4"
+	"Clear Invoice_var0_step5" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var0_step4" -> "Clear Invoice_var0_step5"
+}

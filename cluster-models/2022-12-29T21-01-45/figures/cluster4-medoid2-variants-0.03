@@ -1,0 +1,7 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="6198 traces" shape=plaintext]
+	"Create Fine_var0_step0" [label="Create Fine" shape=box style=filled]
+	"Send Fine_var0_step1" [label="Send Fine" shape=box style=filled]
+	"Create Fine_var0_step0" -> "Send Fine_var0_step1"
+}

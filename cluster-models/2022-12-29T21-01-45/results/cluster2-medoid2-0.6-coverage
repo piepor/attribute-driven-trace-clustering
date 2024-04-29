@@ -1,0 +1,18 @@
+digraph dfg {
+	start_node [label=<&#9679;> shape=circle]
+	"Create Fine" [label="Create Fine (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	start_node -> "Create Fine" [label=2807 color="#000000" penwidth=6.0 style=solid]
+	"Send Fine" [label="Send Fine (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	"Create Fine" -> "Send Fine" [label=2807 color="#000000" penwidth=6.0 style=solid]
+	"Send Fine" [label="Send Fine (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	"Insert Fine Notification" [label="Insert Fine Notification (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	"Send Fine" -> "Insert Fine Notification" [label=2807 color="#000000" penwidth=6.0 style=solid]
+	"Insert Fine Notification" [label="Insert Fine Notification (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	"Add penalty" [label="Add penalty (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	"Insert Fine Notification" -> "Add penalty" [label=2807 color="#000000" penwidth=6.0 style=solid]
+	"Add penalty" [label="Add penalty (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	"Send for Credit Collection" [label="Send for Credit Collection (2807)" fillcolor="#FFFFFF" shape=box style=filled]
+	"Add penalty" -> "Send for Credit Collection" [label=2807 color="#000000" penwidth=6.0 style=solid]
+	end_node [label=<&#9632;> shape=doublecircle]
+	"Send for Credit Collection" -> end_node [label=2807 color="#000000" penwidth=6.0 style=solid]
+}

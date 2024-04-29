@@ -1,0 +1,65 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="40 traces" shape=plaintext]
+	"A_Create Application_var0_step0" [label="A_Create Application" shape=box style=filled]
+	"W_Complete application_var0_step1" [label="W_Complete application" shape=box style=filled]
+	"A_Create Application_var0_step0" -> "W_Complete application_var0_step1"
+	"W_Complete application_var0_step2" [label="W_Complete application" shape=box style=filled]
+	"W_Complete application_var0_step1" -> "W_Complete application_var0_step2"
+	A_Concept_var0_step3 [label=A_Concept shape=box style=filled]
+	"W_Complete application_var0_step2" -> A_Concept_var0_step3
+	A_Accepted_var0_step4 [label=A_Accepted shape=box style=filled]
+	A_Concept_var0_step3 -> A_Accepted_var0_step4
+	"O_Create Offer_var0_step5" [label="O_Create Offer" shape=box style=filled]
+	A_Accepted_var0_step4 -> "O_Create Offer_var0_step5"
+	O_Created_var0_step6 [label=O_Created shape=box style=filled]
+	"O_Create Offer_var0_step5" -> O_Created_var0_step6
+	"O_Sent (mail and online)_var0_step7" [label="O_Sent (mail and online)" shape=box style=filled]
+	O_Created_var0_step6 -> "O_Sent (mail and online)_var0_step7"
+	"W_Complete application_var0_step8" [label="W_Complete application" shape=box style=filled]
+	"O_Sent (mail and online)_var0_step7" -> "W_Complete application_var0_step8"
+	"W_Call after offers_var0_step9" [label="W_Call after offers" shape=box style=filled]
+	"W_Complete application_var0_step8" -> "W_Call after offers_var0_step9"
+	"W_Call after offers_var0_step10" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step9" -> "W_Call after offers_var0_step10"
+	A_Complete_var0_step11 [label=A_Complete shape=box style=filled]
+	"W_Call after offers_var0_step10" -> A_Complete_var0_step11
+	"W_Call after offers_var0_step12" [label="W_Call after offers" shape=box style=filled]
+	A_Complete_var0_step11 -> "W_Call after offers_var0_step12"
+	"W_Call after offers_var0_step13" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step12" -> "W_Call after offers_var0_step13"
+	"W_Call after offers_var0_step14" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step13" -> "W_Call after offers_var0_step14"
+	"W_Call after offers_var0_step15" [label="W_Call after offers" shape=box style=filled]
+	"W_Call after offers_var0_step14" -> "W_Call after offers_var0_step15"
+	"W_Validate application_var0_step16" [label="W_Validate application" shape=box style=filled]
+	"W_Call after offers_var0_step15" -> "W_Validate application_var0_step16"
+	"W_Validate application_var0_step17" [label="W_Validate application" shape=box style=filled]
+	"W_Validate application_var0_step16" -> "W_Validate application_var0_step17"
+	A_Validating_var0_step18 [label=A_Validating shape=box style=filled]
+	"W_Validate application_var0_step17" -> A_Validating_var0_step18
+	O_Returned_var0_step19 [label=O_Returned shape=box style=filled]
+	A_Validating_var0_step18 -> O_Returned_var0_step19
+	"W_Validate application_var0_step20" [label="W_Validate application" shape=box style=filled]
+	O_Returned_var0_step19 -> "W_Validate application_var0_step20"
+	"W_Validate application_var0_step21" [label="W_Validate application" shape=box style=filled]
+	"W_Validate application_var0_step20" -> "W_Validate application_var0_step21"
+	"W_Call incomplete files_var0_step22" [label="W_Call incomplete files" shape=box style=filled]
+	"W_Validate application_var0_step21" -> "W_Call incomplete files_var0_step22"
+	"W_Call incomplete files_var0_step23" [label="W_Call incomplete files" shape=box style=filled]
+	"W_Call incomplete files_var0_step22" -> "W_Call incomplete files_var0_step23"
+	A_Incomplete_var0_step24 [label=A_Incomplete shape=box style=filled]
+	"W_Call incomplete files_var0_step23" -> A_Incomplete_var0_step24
+	"W_Call incomplete files_var0_step25" [label="W_Call incomplete files" shape=box style=filled]
+	A_Incomplete_var0_step24 -> "W_Call incomplete files_var0_step25"
+	"W_Call incomplete files_var0_step26" [label="W_Call incomplete files" shape=box style=filled]
+	"W_Call incomplete files_var0_step25" -> "W_Call incomplete files_var0_step26"
+	"W_Call incomplete files_var0_step27" [label="W_Call incomplete files" shape=box style=filled]
+	"W_Call incomplete files_var0_step26" -> "W_Call incomplete files_var0_step27"
+	O_Accepted_var0_step28 [label=O_Accepted shape=box style=filled]
+	"W_Call incomplete files_var0_step27" -> O_Accepted_var0_step28
+	A_Pending_var0_step29 [label=A_Pending shape=box style=filled]
+	O_Accepted_var0_step28 -> A_Pending_var0_step29
+	"W_Call incomplete files_var0_step30" [label="W_Call incomplete files" shape=box style=filled]
+	A_Pending_var0_step29 -> "W_Call incomplete files_var0_step30"
+}

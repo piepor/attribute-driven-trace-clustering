@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="651.10077"
+   height="402.67624"
+   viewBox="0 0 651.10077 402.67624"
+   version="1.1"
+   id="svg204"
+   sodipodi:docname="cluster0-acivities-distribution.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview204"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8182746"
+     inkscape:cx="279.66073"
+     inkscape:cy="277.46084"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg204" />
+  <rect
+     x="-36.573048"
+     y="-60"
+     width="700"
+     height="500"
+     style="fill:#000000;fill-opacity:0"
+     id="rect1" />
+  <defs
+     id="defs-e6ad7d">
+    <g
+       class="clips"
+       id="g5">
+      <clipPath
+         class="axesclip"
+         id="clipe6ad7dx">
+        <rect
+           x="80"
+           y="0"
+           width="540"
+           height="500"
+           id="rect3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipe6ad7dy">
+        <rect
+           x="0"
+           y="60"
+           width="700"
+           height="218"
+           id="rect4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipe6ad7dxy">
+        <rect
+           x="80"
+           y="60"
+           width="540"
+           height="218"
+           id="rect5" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g6" />
+    <g
+       class="patterns"
+       id="g7" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath205">
+      <g
+         id="g206"
+         transform="translate(-80,-60)">
+        <rect
+           width="540"
+           height="218"
+           id="rect205"
+           x="80"
+           y="60" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath207">
+      <g
+         id="g208"
+         transform="translate(-430,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect207" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath208">
+      <g
+         id="g209"
+         transform="translate(-315,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect208" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath209">
+      <g
+         id="g210"
+         transform="translate(-200,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect209" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath210">
+      <g
+         id="g211"
+         transform="translate(-85,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect210" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath210-3">
+      <g
+         id="g211-6"
+         transform="translate(-85,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect210-7" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath209-5">
+      <g
+         id="g210-3"
+         transform="translate(-200,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect209-5" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath208-6">
+      <g
+         id="g209-2"
+         transform="translate(-315,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect208-9" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath207-1">
+      <g
+         id="g208-2"
+         transform="translate(-430,-26.64)">
+        <rect
+           width="535"
+           height="29"
+           x="85"
+           y="26.639999"
+           id="rect207-7" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     class="bglayer"
+     id="g8"
+     transform="translate(-36.573047,-60)">
+    <rect
+       class="bg"
+       x="80"
+       y="60"
+       width="540"
+       height="218"
+       style="fill:#000000;fill-opacity:0;stroke-width:0"
+       id="rect7" />
+  </g>
+  <g
+     class="layer-below"
+     id="g11"
+     transform="translate(-36.573047,-60)">
+    <g
+       class="imagelayer"
+       id="g9" />
+    <g
+       class="shapelayer"
+       id="g10" />
+  </g>
+  <g
+     class="shapelayer"
+     id="g12"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="imagelayer"
+     id="g13"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="x"
+     id="g15"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="y"
+     id="g16"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="x"
+     id="g18"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="y"
+     id="g21"
+     transform="translate(-36.573047,-60)">
+    <path
+       class="ygrid crisp"
+       transform="translate(0,224.95)"
+       d="M 80,0 H 620"
+       style="stroke:#000000;stroke-width:0.1px;stroke-dasharray:9px, 9px;stroke-opacity:1"
+       id="path18" />
+    <path
+       class="ygrid crisp"
+       transform="translate(0,171.9)"
+       d="M 80,0 H 620"
+       style="stroke:#000000;stroke-width:0.1px;stroke-dasharray:9px, 9px;stroke-opacity:1"
+       id="path19" />
+    <path
+       class="ygrid crisp"
+       transform="translate(0,118.86)"
+       d="M 80,0 H 620"
+       style="stroke:#000000;stroke-width:0.1px;stroke-dasharray:9px, 9px;stroke-opacity:1"
+       id="path20" />
+    <path
+       class="ygrid crisp"
+       transform="translate(0,65.81)"
+       d="M 80,0 H 620"
+       style="stroke:#000000;stroke-width:0.1px;stroke-dasharray:9px, 9px;stroke-opacity:1"
+       id="path21" />
+  </g>
+  <path
+     class="yzl zl crisp"
+     d="M 43.426953,218 H 583.42695"
+     style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+     id="path22" />
+  <path
+     class="xlines-below"
+     id="path23"
+     d="" />
+  <path
+     class="ylines-below"
+     id="path24"
+     d="" />
+  <g
+     class="barlayer mlayer"
+     id="g119"
+     transform="translate(43.426953)"
+     clip-path="url(#clipPath205)">
+    <g
+       class="trace bars"
+       style="opacity:1"
+       id="g47">
+      <g
+         class="points"
+         id="g46">
+        <g
+           class="point"
+           id="g28">
+          <path
+             d="m 2.25,218 v -0.93 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path27" />
+        </g>
+        <g
+           class="point"
+           id="g29">
+          <path
+             d="m 69.75,218 v -8.6 h 4.5 v 8.6 z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path28" />
+        </g>
+        <g
+           class="point"
+           id="g30">
+          <path
+             d="m 92.25,218 v -63.25 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path29" />
+        </g>
+        <g
+           class="point"
+           id="g31">
+          <path
+             d="m 114.75,218 v -0.22 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path30" />
+        </g>
+        <g
+           class="point"
+           id="g32">
+          <path
+             d="m 137.25,218 v -72.45 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path31" />
+        </g>
+        <g
+           class="point"
+           id="g33">
+          <path
+             d="m 159.75,218 v -17.61 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path32" />
+        </g>
+        <g
+           class="point"
+           id="g34">
+          <path
+             d="m 204.75,218 v -72.45 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path33" />
+        </g>
+        <g
+           class="point"
+           id="g35">
+          <path
+             d="m 249.75,218 v -0.12 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path34" />
+        </g>
+        <g
+           class="point"
+           id="g36">
+          <path
+             d="m 272.25,218 v -0.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path35" />
+        </g>
+        <g
+           class="point"
+           id="g37">
+          <path
+             d="m 294.75,218 v -0.05 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path36" />
+        </g>
+        <g
+           class="point"
+           id="g38">
+          <path
+             d="m 317.25,218 v -0.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path37" />
+        </g>
+        <g
+           class="point"
+           id="g39">
+          <path
+             d="m 339.75,218 v -0.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path38" />
+        </g>
+        <g
+           class="point"
+           id="g40">
+          <path
+             d="m 362.25,218 v -0.06 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path39" />
+        </g>
+        <g
+           class="point"
+           id="g41">
+          <path
+             d="M 384.75,218 V 115.18 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path40" />
+        </g>
+        <g
+           class="point"
+           id="g42">
+          <path
+             d="m 407.25,218 v -3.85 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path41" />
+        </g>
+        <g
+           class="point"
+           id="g43">
+          <path
+             d="M 429.75,218 V 31.83 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path42" />
+        </g>
+        <g
+           class="point"
+           id="g44">
+          <path
+             d="m 474.75,218 v -1.06 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path43" />
+        </g>
+        <g
+           class="point"
+           id="g45">
+          <path
+             d="m 497.25,218 v -0.17 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path44" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="trace bars"
+       style="opacity:1"
+       id="g72">
+      <g
+         class="points"
+         id="g71">
+        <g
+           class="point"
+           id="g48">
+          <path
+             d="m 6.75,218 v -14.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path47" />
+        </g>
+        <g
+           class="point"
+           id="g49">
+          <path
+             d="m 29.25,218 v -10.61 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path48" />
+        </g>
+        <g
+           class="point"
+           id="g50">
+          <path
+             d="m 51.75,218 v -10.61 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path49" />
+        </g>
+        <g
+           class="point"
+           id="g51">
+          <path
+             d="m 74.25,218 v -1.04 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path50" />
+        </g>
+        <g
+           class="point"
+           id="g52">
+          <path
+             d="m 96.75,218 v -2.46 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path51" />
+        </g>
+        <g
+           class="point"
+           id="g53">
+          <path
+             d="m 119.25,218 v -14.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path52" />
+        </g>
+        <g
+           class="point"
+           id="g54">
+          <path
+             d="m 141.75,218 v -14.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path53" />
+        </g>
+        <g
+           class="point"
+           id="g55">
+          <path
+             d="m 164.25,218 v -14.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path54" />
+        </g>
+        <g
+           class="point"
+           id="g56">
+          <path
+             d="m 186.75,218 v -10.61 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path55" />
+        </g>
+        <g
+           class="point"
+           id="g57">
+          <path
+             d="m 209.25,218 v -14.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path56" />
+        </g>
+        <g
+           class="point"
+           id="g58">
+          <path
+             d="m 231.75,218 v -10.61 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path57" />
+        </g>
+        <g
+           class="point"
+           id="g59">
+          <path
+             d="m 254.25,218 v -2.03 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path58" />
+        </g>
+        <g
+           class="point"
+           id="g60">
+          <path
+             d="m 276.75,218 v -15.22 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path59" />
+        </g>
+        <g
+           class="point"
+           id="g61">
+          <path
+             d="m 299.25,218 v -2.46 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path60" />
+        </g>
+        <g
+           class="point"
+           id="g62">
+          <path
+             d="m 321.75,218 v -15.22 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path61" />
+        </g>
+        <g
+           class="point"
+           id="g63">
+          <path
+             d="m 344.25,218 v -15.22 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path62" />
+        </g>
+        <g
+           class="point"
+           id="g64">
+          <path
+             d="m 366.75,218 v -14.49 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path63" />
+        </g>
+        <g
+           class="point"
+           id="g65">
+          <path
+             d="m 389.25,218 v -9.19 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path64" />
+        </g>
+        <g
+           class="point"
+           id="g66">
+          <path
+             d="m 411.75,218 v -0.52 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path65" />
+        </g>
+        <g
+           class="point"
+           id="g67">
+          <path
+             d="m 434.25,218 v -60.2 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path66" />
+        </g>
+        <g
+           class="point"
+           id="g68">
+          <path
+             d="M 456.75,218 V 115.41 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path67" />
+        </g>
+        <g
+           class="point"
+           id="g69">
+          <path
+             d="m 479.25,218 v -77.93 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path68" />
+        </g>
+        <g
+           class="point"
+           id="g70">
+          <path
+             d="m 501.75,218 v -98.33 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path69" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="trace bars"
+       style="opacity:1"
+       id="g92">
+      <g
+         class="points"
+         id="g91">
+        <g
+           class="point"
+           id="g73">
+          <path
+             d="m 11.25,218 v -18.79 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path72" />
+        </g>
+        <g
+           class="point"
+           id="g74">
+          <path
+             d="m 78.75,218 v -14.5 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path73" />
+        </g>
+        <g
+           class="point"
+           id="g75">
+          <path
+             d="m 101.25,218 v -1.83 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path74" />
+        </g>
+        <g
+           class="point"
+           id="g76">
+          <path
+             d="m 123.75,218 v -18.79 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path75" />
+        </g>
+        <g
+           class="point"
+           id="g77">
+          <path
+             d="m 146.25,218 v -18.79 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path76" />
+        </g>
+        <g
+           class="point"
+           id="g78">
+          <path
+             d="m 168.75,218 v -18.79 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path77" />
+        </g>
+        <g
+           class="point"
+           id="g79">
+          <path
+             d="m 213.75,218 v -18.79 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path78" />
+        </g>
+        <g
+           class="point"
+           id="g80">
+          <path
+             d="m 258.75,218 v -18.58 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path79" />
+        </g>
+        <g
+           class="point"
+           id="g81">
+          <path
+             d="m 281.25,218 v -22.87 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path80" />
+        </g>
+        <g
+           class="point"
+           id="g82">
+          <path
+             d="m 303.75,218 v -1.83 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path81" />
+        </g>
+        <g
+           class="point"
+           id="g83">
+          <path
+             d="m 326.25,218 v -22.87 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path82" />
+        </g>
+        <g
+           class="point"
+           id="g84">
+          <path
+             d="m 348.75,218 v -22.87 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path83" />
+        </g>
+        <g
+           class="point"
+           id="g85">
+          <path
+             d="m 371.25,218 v -1.85 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path84" />
+        </g>
+        <g
+           class="point"
+           id="g86">
+          <path
+             d="m 393.75,218 v -15.85 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path85" />
+        </g>
+        <g
+           class="point"
+           id="g87">
+          <path
+             d="M 438.75,218 V 117.76 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path86" />
+        </g>
+        <g
+           class="point"
+           id="g88">
+          <path
+             d="m 461.25,218 v -0.57 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path87" />
+        </g>
+        <g
+           class="point"
+           id="g89">
+          <path
+             d="M 483.75,218 V 10.9 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path88" />
+        </g>
+        <g
+           class="point"
+           id="g90">
+          <path
+             d="m 506.25,218 v -5.56 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path89" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="trace bars"
+       style="opacity:1"
+       id="g118">
+      <g
+         class="points"
+         id="g117">
+        <g
+           class="point"
+           id="g93">
+          <path
+             d="m 15.75,218 v -17.98 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path92" />
+        </g>
+        <g
+           class="point"
+           id="g94">
+          <path
+             d="m 38.25,218 v -12.5 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path93" />
+        </g>
+        <g
+           class="point"
+           id="g95">
+          <path
+             d="m 60.75,218 v -12.5 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path94" />
+        </g>
+        <g
+           class="point"
+           id="g96">
+          <path
+             d="m 83.25,218 v -0.16 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path95" />
+        </g>
+        <g
+           class="point"
+           id="g97">
+          <path
+             d="m 105.75,218 v -5.01 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path96" />
+        </g>
+        <g
+           class="point"
+           id="g98">
+          <path
+             d="m 128.25,218 v -17.98 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path97" />
+        </g>
+        <g
+           class="point"
+           id="g99">
+          <path
+             d="m 150.75,218 v -17.98 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path98" />
+        </g>
+        <g
+           class="point"
+           id="g100">
+          <path
+             d="m 173.25,218 v -17.98 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path99" />
+        </g>
+        <g
+           class="point"
+           id="g101">
+          <path
+             d="m 195.75,218 v -12.5 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path100" />
+        </g>
+        <g
+           class="point"
+           id="g102">
+          <path
+             d="m 218.25,218 v -17.98 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path101" />
+        </g>
+        <g
+           class="point"
+           id="g103">
+          <path
+             d="m 240.75,218 v -12.5 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path102" />
+        </g>
+        <g
+           class="point"
+           id="g104">
+          <path
+             d="m 263.25,218 v -3.04 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path103" />
+        </g>
+        <g
+           class="point"
+           id="g105">
+          <path
+             d="m 285.75,218 v -20.86 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path104" />
+        </g>
+        <g
+           class="point"
+           id="g106">
+          <path
+             d="m 308.25,218 v -5.01 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path105" />
+        </g>
+        <g
+           class="point"
+           id="g107">
+          <path
+             d="m 330.75,218 v -20.86 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path106" />
+        </g>
+        <g
+           class="point"
+           id="g108">
+          <path
+             d="m 353.25,218 v -20.86 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path107" />
+        </g>
+        <g
+           class="point"
+           id="g109">
+          <path
+             d="m 375.75,218 v -17.98 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path108" />
+        </g>
+        <g
+           class="point"
+           id="g110">
+          <path
+             d="m 398.25,218 v -13.57 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path109" />
+        </g>
+        <g
+           class="point"
+           id="g111">
+          <path
+             d="m 420.75,218 v -0.23 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path110" />
+        </g>
+        <g
+           class="point"
+           id="g112">
+          <path
+             d="m 443.25,218 v -91 h 4.5 v 91 z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path111" />
+        </g>
+        <g
+           class="point"
+           id="g113">
+          <path
+             d="m 465.75,218 v -2.18 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path112" />
+        </g>
+        <g
+           class="point"
+           id="g114">
+          <path
+             d="M 488.25,218 V 95.89 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path113" />
+        </g>
+        <g
+           class="point"
+           id="g115">
+          <path
+             d="m 510.75,218 v -67.68 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path114" />
+        </g>
+        <g
+           class="point"
+           id="g116">
+          <path
+             d="m 533.25,218 v -0.05 h 4.5 V 218 Z"
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+             id="path115" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     class="xlines-above crisp"
+     d="M 41.426953,219 H 583.42695"
+     style="fill:none;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+     id="path121" />
+  <path
+     class="ylines-above crisp"
+     d="M 42.426953,0 V 218"
+     style="fill:none;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+     id="path122" />
+  <g
+     class="xtick"
+     id="g123"
+     transform="rotate(-30,-44.302736,324.95927)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,45.625,334.025)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text122">A_ACCEPTED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g124"
+     transform="rotate(-30,-21.094298,322.31537)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,56.875,345.275)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text123">A_ACTIVATED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g125"
+     transform="rotate(-30,0.94692234,324.02754)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,68.125,356.525)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text124">A_APPROVED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g126"
+     transform="rotate(-30,21.688172,330.59129)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,79.375,367.775)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text125">A_CANCELLED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g127"
+     transform="rotate(-30,44.649992,328.86776)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,90.625,379.025)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text126">A_DECLINED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g128"
+     transform="rotate(-30,67.940952,325.91584)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,101.875,390.275)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text127">A_FINALIZED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g129"
+     transform="rotate(-30,90.629512,325.21211)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,113.125,401.525)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text128">A_PARTLYSUBMITTED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g130"
+     transform="rotate(-30,113.52788,323.72538)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,124.375,412.775)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text129">A_PREACCEPTED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g131"
+     transform="rotate(-30,138.45992,314.64891)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,135.625,424.025)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text130">A_REGISTERED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g132"
+     transform="rotate(-30,160.02242,318.1477)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,146.875,435.275)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text131">A_SUBMITTED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g133"
+     transform="rotate(-30,180.86403,321.27369)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,158.125,446.525)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text132">O_ACCEPTED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g134"
+     transform="rotate(-30,202.87834,323.0863)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,169.375,457.775)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text133">O_CANCELLED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g135"
+     transform="rotate(-30,224.63742,325.85146)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,180.625,469.025)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text134">O_CREATED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g136"
+     transform="rotate(-30,247.60721,324.09815)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,191.875,480.275)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text135">O_DECLINED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g137"
+     transform="rotate(-30,270.06721,324.24744)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,203.125,491.525)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text136">O_SELECTED</text>
+  </g>
+  <g
+     class="xtick"
+     id="g138"
+     transform="rotate(-30,292.59326,324.15022)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,214.375,502.775)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text137">O_SENT</text>
+  </g>
+  <g
+     class="xtick"
+     id="g139"
+     transform="rotate(-30,313.97347,328.32934)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,225.625,514.025)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text138">O_SENT_BACK</text>
+  </g>
+  <g
+     class="xtick"
+     id="g140"
+     transform="rotate(-30,337.29825,328.12506)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,236.875,525.275)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text139">W_Afhandelen leads</text>
+  </g>
+  <g
+     class="xtick"
+     id="g141"
+     transform="rotate(-30,360.74639,324.58654)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,248.125,536.525)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text140">W_Beoordelen fraude</text>
+  </g>
+  <g
+     class="xtick"
+     id="g142"
+     transform="rotate(-30,385.59478,315.82222)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,259.375,547.775)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text141">W_Completeren aanvraag</text>
+  </g>
+  <g
+     class="xtick"
+     id="g143"
+     transform="rotate(-30,407.28192,318.85586)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,270.625,559.025)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text142">W_Nabellen incomplete dossiers</text>
+  </g>
+  <g
+     class="xtick"
+     id="g144"
+     transform="rotate(-30,429.80097,318.78479)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,281.875,570.275)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text143">W_Nabellen offertes</text>
+  </g>
+  <g
+     class="xtick"
+     id="g145"
+     transform="rotate(-30,451.61267,321.35354)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,293.125,581.525)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text144">W_Valideren aanvraag</text>
+  </g>
+  <g
+     class="xtick"
+     id="g146"
+     transform="rotate(-30,472.11148,328.82209)">
+    <text
+       text-anchor="start"
+       x="0"
+       y="294.39999"
+       transform="rotate(90,304.375,592.775)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text145">W_Wijzigen contractgegevens</text>
+  </g>
+  <g
+     class="ytick"
+     id="g148"
+     transform="translate(-36.573047,-60)">
+    <text
+       text-anchor="end"
+       x="75.599998"
+       y="4.1999998"
+       transform="translate(0,278)"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       id="text147">0</text>
+  </g>
+  <g
+     class="ytick"
+     id="g149"
+     transform="translate(-36.573047,-60)">
+    <text
+       text-anchor="end"
+       x="75.599998"
+       y="4.1999998"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       transform="translate(0,224.95)"
+       id="text148">0.1</text>
+  </g>
+  <g
+     class="ytick"
+     id="g150"
+     transform="translate(-36.573047,-60)">
+    <text
+       text-anchor="end"
+       x="75.599998"
+       y="4.1999998"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       transform="translate(0,171.9)"
+       id="text149">0.2</text>
+  </g>
+  <g
+     class="ytick"
+     id="g151"
+     transform="translate(-36.573047,-60)">
+    <text
+       text-anchor="end"
+       x="75.599998"
+       y="4.1999998"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       transform="translate(0,118.86)"
+       id="text150">0.3</text>
+  </g>
+  <g
+     class="ytick"
+     id="g152"
+     transform="translate(-36.573047,-60)">
+    <text
+       text-anchor="end"
+       x="75.599998"
+       y="4.1999998"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+       transform="translate(0,65.81)"
+       id="text151">0.4</text>
+  </g>
+  <g
+     class="polarlayer"
+     id="g157"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="smithlayer"
+     id="g158"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="ternarylayer"
+     id="g159"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="geolayer"
+     id="g160"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="funnelarealayer"
+     id="g161"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="pielayer"
+     id="g162"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="iciclelayer"
+     id="g163"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="treemaplayer"
+     id="g164"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="sunburstlayer"
+     id="g165"
+     transform="translate(-36.573047,-60)" />
+  <g
+     class="glimages"
+     id="g166"
+     transform="translate(-36.573047,-60)" />
+  <defs
+     id="topdefs-e6ad7d">
+    <g
+       class="clips"
+       id="g167" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g170"
+     transform="translate(-36.573047,-60)">
+    <g
+       class="imagelayer"
+       id="g168" />
+    <g
+       class="shapelayer"
+       id="g169" />
+  </g>
+  <rect
+     class="bg"
+     shape-rendering="crispEdges"
+     width="535"
+     height="29"
+     x="48.426952"
+     y="-33.360001"
+     style="fill:#000000;fill-opacity:0;stroke:#444444;stroke-width:0px;stroke-opacity:1"
+     id="rect170" />
+  <rect
+     class="scrollbar"
+     rx="20"
+     ry="3"
+     width="0"
+     height="0"
+     x="48.426952"
+     y="-33.360001"
+     style="fill:#808ba4;fill-opacity:1"
+     id="rect199" />
+  <g
+     class="g-ytitle"
+     id="g203"
+     transform="translate(-26.573047,-60)">
+    <text
+       class="ytitle"
+       transform="rotate(-90,34.10625,169)"
+       x="34.106251"
+       y="169"
+       text-anchor="middle"
+       style="font-weight:normal;font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#2a3f5f"
+       id="text202">perc</text>
+  </g>
+  <g
+     class="groups"
+     id="g177"
+     transform="translate(9.6992921,378.67624)"
+     clip-path="url(#clipPath210-3)">
+    <g
+       class="traces"
+       transform="translate(74.15625,14.5)"
+       style="opacity:1"
+       id="g176">
+      <text
+         class="legendtext"
+         text-anchor="start"
+         x="40"
+         y="4.6799998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+         id="text171">cluster 0.0</text>
+      <g
+         class="layers"
+         style="opacity:1"
+         id="g175">
+        <g
+           class="legendfill"
+           id="g171" />
+        <g
+           class="legendlines"
+           id="g172" />
+        <g
+           class="legendsymbols"
+           id="g174">
+          <g
+             class="legendpoints"
+             id="g173">
+            <path
+               class="legendundefined"
+               d="M 6,6 H -6 V -6 H 6 Z"
+               transform="translate(20)"
+               style="fill:#636efa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+               id="path172" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="legendtoggle"
+         x="0"
+         y="-9.5"
+         width="112.5"
+         height="19"
+         style="fill:#000000;fill-opacity:0"
+         id="rect175" />
+    </g>
+  </g>
+  <g
+     class="groups"
+     transform="translate(124.69929,378.67624)"
+     id="g184"
+     clip-path="url(#clipPath209-5)">
+    <g
+       class="traces"
+       transform="translate(74.15625,14.5)"
+       style="opacity:1"
+       id="g183">
+      <text
+         class="legendtext"
+         text-anchor="start"
+         x="40"
+         y="4.6799998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+         id="text177">cluster 0.1</text>
+      <g
+         class="layers"
+         style="opacity:1"
+         id="g182">
+        <g
+           class="legendfill"
+           id="g178" />
+        <g
+           class="legendlines"
+           id="g179" />
+        <g
+           class="legendsymbols"
+           id="g181">
+          <g
+             class="legendpoints"
+             id="g180">
+            <path
+               class="legendundefined"
+               d="M 6,6 H -6 V -6 H 6 Z"
+               transform="translate(20)"
+               style="fill:#ef553b;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+               id="path179" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="legendtoggle"
+         x="0"
+         y="-9.5"
+         width="112.5"
+         height="19"
+         style="fill:#000000;fill-opacity:0"
+         id="rect182" />
+    </g>
+  </g>
+  <g
+     class="groups"
+     transform="translate(239.69929,378.67624)"
+     id="g191"
+     clip-path="url(#clipPath208-6)">
+    <g
+       class="traces"
+       transform="translate(74.15625,14.5)"
+       style="opacity:1"
+       id="g190">
+      <text
+         class="legendtext"
+         text-anchor="start"
+         x="40"
+         y="4.6799998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+         id="text184">cluster 0.2</text>
+      <g
+         class="layers"
+         style="opacity:1"
+         id="g189">
+        <g
+           class="legendfill"
+           id="g185" />
+        <g
+           class="legendlines"
+           id="g186" />
+        <g
+           class="legendsymbols"
+           id="g188">
+          <g
+             class="legendpoints"
+             id="g187">
+            <path
+               class="legendundefined"
+               d="M 6,6 H -6 V -6 H 6 Z"
+               transform="translate(20)"
+               style="fill:#00cc96;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+               id="path186" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="legendtoggle"
+         x="0"
+         y="-9.5"
+         width="112.5"
+         height="19"
+         style="fill:#000000;fill-opacity:0"
+         id="rect189" />
+    </g>
+  </g>
+  <g
+     class="groups"
+     transform="translate(354.69929,378.67624)"
+     id="g198"
+     clip-path="url(#clipPath207-1)">
+    <g
+       class="traces"
+       transform="translate(74.15625,14.5)"
+       style="opacity:1"
+       id="g197">
+      <text
+         class="legendtext"
+         text-anchor="start"
+         x="40"
+         y="4.6799998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+         id="text191">cluster 0.3</text>
+      <g
+         class="layers"
+         style="opacity:1"
+         id="g196">
+        <g
+           class="legendfill"
+           id="g192" />
+        <g
+           class="legendlines"
+           id="g193" />
+        <g
+           class="legendsymbols"
+           id="g195">
+          <g
+             class="legendpoints"
+             id="g194">
+            <path
+               class="legendundefined"
+               d="M 6,6 H -6 V -6 H 6 Z"
+               transform="translate(20)"
+               style="fill:#ab63fa;fill-opacity:1;stroke:#e5ecf6;stroke-width:0.5px;stroke-opacity:1"
+               id="path193" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="legendtoggle"
+         x="0"
+         y="-9.5"
+         width="112.5"
+         height="19"
+         style="fill:#000000;fill-opacity:0"
+         id="rect196" />
+    </g>
+  </g>
+</svg>

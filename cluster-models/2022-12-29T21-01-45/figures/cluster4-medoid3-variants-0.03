@@ -1,0 +1,27 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="103 traces" shape=plaintext]
+	"Create Fine_var0_step0" [label="Create Fine" shape=box style=filled]
+	"Send Fine_var0_step1" [label="Send Fine" shape=box style=filled]
+	"Create Fine_var0_step0" -> "Send Fine_var0_step1"
+	"Insert Fine Notification_var0_step2" [label="Insert Fine Notification" shape=box style=filled]
+	"Send Fine_var0_step1" -> "Insert Fine Notification_var0_step2"
+	"Add penalty_var0_step3" [label="Add penalty" shape=box style=filled]
+	"Insert Fine Notification_var0_step2" -> "Add penalty_var0_step3"
+	"Insert Date Appeal to Prefecture_var0_step4" [label="Insert Date Appeal to Prefecture" shape=box style=filled]
+	"Add penalty_var0_step3" -> "Insert Date Appeal to Prefecture_var0_step4"
+	"Send Appeal to Prefecture_var0_step5" [label="Send Appeal to Prefecture" shape=box style=filled]
+	"Insert Date Appeal to Prefecture_var0_step4" -> "Send Appeal to Prefecture_var0_step5"
+	start_node_var1 [label="641 traces" shape=plaintext]
+	"Create Fine_var1_step0" [label="Create Fine" shape=box style=filled]
+	"Send Fine_var1_step1" [label="Send Fine" shape=box style=filled]
+	"Create Fine_var1_step0" -> "Send Fine_var1_step1"
+	"Insert Fine Notification_var1_step2" [label="Insert Fine Notification" shape=box style=filled]
+	"Send Fine_var1_step1" -> "Insert Fine Notification_var1_step2"
+	"Insert Date Appeal to Prefecture_var1_step3" [label="Insert Date Appeal to Prefecture" shape=box style=filled]
+	"Insert Fine Notification_var1_step2" -> "Insert Date Appeal to Prefecture_var1_step3"
+	"Add penalty_var1_step4" [label="Add penalty" shape=box style=filled]
+	"Insert Date Appeal to Prefecture_var1_step3" -> "Add penalty_var1_step4"
+	"Send Appeal to Prefecture_var1_step5" [label="Send Appeal to Prefecture" shape=box style=filled]
+	"Add penalty_var1_step4" -> "Send Appeal to Prefecture_var1_step5"
+}

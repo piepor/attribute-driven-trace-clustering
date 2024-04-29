@@ -1,0 +1,67 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="1996 traces" shape=plaintext]
+	"Create Purchase Requisition Item_var0_step0" [label="Create Purchase Requisition Item" shape=box style=filled]
+	"Create Purchase Order Item_var0_step1" [label="Create Purchase Order Item" shape=box style=filled]
+	"Create Purchase Requisition Item_var0_step0" -> "Create Purchase Order Item_var0_step1"
+	"Receive Order Confirmation_var0_step2" [label="Receive Order Confirmation" shape=box style=filled]
+	"Create Purchase Order Item_var0_step1" -> "Receive Order Confirmation_var0_step2"
+	"Record Goods Receipt_var0_step3" [label="Record Goods Receipt" shape=box style=filled]
+	"Receive Order Confirmation_var0_step2" -> "Record Goods Receipt_var0_step3"
+	"Vendor creates invoice_var0_step4" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Goods Receipt_var0_step3" -> "Vendor creates invoice_var0_step4"
+	"Record Invoice Receipt_var0_step5" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var0_step4" -> "Record Invoice Receipt_var0_step5"
+	start_node_var1 [label="2541 traces" shape=plaintext]
+	"Create Purchase Order Item_var1_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Record Goods Receipt_var1_step1" [label="Record Goods Receipt" shape=box style=filled]
+	"Create Purchase Order Item_var1_step0" -> "Record Goods Receipt_var1_step1"
+	"Vendor creates invoice_var1_step2" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Goods Receipt_var1_step1" -> "Vendor creates invoice_var1_step2"
+	"Record Invoice Receipt_var1_step3" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var1_step2" -> "Record Invoice Receipt_var1_step3"
+	start_node_var2 [label="2550 traces" shape=plaintext]
+	"Create Purchase Order Item_var2_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Receive Order Confirmation_var2_step1" [label="Receive Order Confirmation" shape=box style=filled]
+	"Create Purchase Order Item_var2_step0" -> "Receive Order Confirmation_var2_step1"
+	"Vendor creates invoice_var2_step2" [label="Vendor creates invoice" shape=box style=filled]
+	"Receive Order Confirmation_var2_step1" -> "Vendor creates invoice_var2_step2"
+	"Record Goods Receipt_var2_step3" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var2_step2" -> "Record Goods Receipt_var2_step3"
+	"Record Invoice Receipt_var2_step4" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step3" -> "Record Invoice Receipt_var2_step4"
+	"Clear Invoice_var2_step5" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var2_step4" -> "Clear Invoice_var2_step5"
+	start_node_var3 [label="9094 traces" shape=plaintext]
+	"Create Purchase Order Item_var3_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Receive Order Confirmation_var3_step1" [label="Receive Order Confirmation" shape=box style=filled]
+	"Create Purchase Order Item_var3_step0" -> "Receive Order Confirmation_var3_step1"
+	"Record Goods Receipt_var3_step2" [label="Record Goods Receipt" shape=box style=filled]
+	"Receive Order Confirmation_var3_step1" -> "Record Goods Receipt_var3_step2"
+	"Vendor creates invoice_var3_step3" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Goods Receipt_var3_step2" -> "Vendor creates invoice_var3_step3"
+	"Record Invoice Receipt_var3_step4" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var3_step3" -> "Record Invoice Receipt_var3_step4"
+	"Clear Invoice_var3_step5" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var3_step4" -> "Clear Invoice_var3_step5"
+	start_node_var4 [label="12780 traces" shape=plaintext]
+	"Create Purchase Order Item_var4_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Vendor creates invoice_var4_step1" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var4_step0" -> "Vendor creates invoice_var4_step1"
+	"Record Goods Receipt_var4_step2" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var4_step1" -> "Record Goods Receipt_var4_step2"
+	"Record Invoice Receipt_var4_step3" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step2" -> "Record Invoice Receipt_var4_step3"
+	"Clear Invoice_var4_step4" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var4_step3" -> "Clear Invoice_var4_step4"
+	start_node_var5 [label="18270 traces" shape=plaintext]
+	"Create Purchase Order Item_var5_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Record Goods Receipt_var5_step1" [label="Record Goods Receipt" shape=box style=filled]
+	"Create Purchase Order Item_var5_step0" -> "Record Goods Receipt_var5_step1"
+	"Vendor creates invoice_var5_step2" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Goods Receipt_var5_step1" -> "Vendor creates invoice_var5_step2"
+	"Record Invoice Receipt_var5_step3" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var5_step2" -> "Record Invoice Receipt_var5_step3"
+	"Clear Invoice_var5_step4" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var5_step3" -> "Clear Invoice_var5_step4"
+}

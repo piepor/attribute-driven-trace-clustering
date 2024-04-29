@@ -1,0 +1,15 @@
+digraph dfg {
+	start_node [label=<&#9679;> shape=circle]
+	"Create Purchase Order Item" [label="Create Purchase Order Item (12807)" fillcolor="#9B9BFF" shape=box style=filled]
+	start_node -> "Create Purchase Order Item" [label=10700 color="#000000" penwidth=6.299668671002577 style=solid]
+	"Create Purchase Requisition Item" [label="Create Purchase Requisition Item (2107)" fillcolor="#FFFFFF" shape=box style=filled]
+	start_node -> "Create Purchase Requisition Item" [label=2107 color="#000000" penwidth=0.5 style=solid]
+	"Record Goods Receipt" [label="Record Goods Receipt (10256)" fillcolor="#B2B2FF" shape=box style=filled]
+	"Create Purchase Order Item" -> "Record Goods Receipt" [label=10256 color="#000000" penwidth=6.0 style=solid]
+	"Delete Purchase Order Item" [label="Delete Purchase Order Item (2551)" fillcolor="#FAFAFF" shape=box style=filled]
+	"Create Purchase Order Item" -> "Delete Purchase Order Item" [label=2551 color="#000000" penwidth=0.799668671002577 style=solid]
+	"Create Purchase Requisition Item" -> "Create Purchase Order Item" [label=2107 color="#000000" penwidth=0.5 style=solid]
+	end_node [label=<&#9632;> shape=doublecircle]
+	"Record Goods Receipt" -> end_node [label=10256 color="#000000" penwidth=6.0 style=solid]
+	"Delete Purchase Order Item" -> end_node [label=2551 color="#000000" penwidth=0.799668671002577 style=solid]
+}

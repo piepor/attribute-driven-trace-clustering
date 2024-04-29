@@ -1,0 +1,74 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label=<&#9679;> shape=circle]
+	"Create Purchase Order Item_var0" [label="Create Purchase Order Item" shape=box style=filled]
+	start_node_var0 -> "Create Purchase Order Item_var0"
+	"Vendor creates invoice_var0" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var0" -> "Vendor creates invoice_var0"
+	"Record Goods Receipt_var0" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var0" -> "Record Goods Receipt_var0"
+	"Record Invoice Receipt_var0" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0" -> "Record Invoice Receipt_var0"
+	"Clear Invoice_var0" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var0" -> "Clear Invoice_var0"
+	end_node_var0 [label=<&#9632;> shape=doublecircle]
+	"Clear Invoice_var0" -> end_node_var0
+	start_node_var1 [label=<&#9679;> shape=circle]
+	"Create Purchase Order Item_var1" [label="Create Purchase Order Item" shape=box style=filled]
+	start_node_var1 -> "Create Purchase Order Item_var1"
+	"Vendor creates invoice_var1" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var1" -> "Vendor creates invoice_var1"
+	"Record Goods Receipt_var1" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var1" -> "Record Goods Receipt_var1"
+	"Record Invoice Receipt_var1" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1" -> "Record Invoice Receipt_var1"
+	"Remove Payment Block_var1" [label="Remove Payment Block" shape=box style=filled]
+	"Record Invoice Receipt_var1" -> "Remove Payment Block_var1"
+	"Clear Invoice_var1" [label="Clear Invoice" shape=box style=filled]
+	"Remove Payment Block_var1" -> "Clear Invoice_var1"
+	end_node_var1 [label=<&#9632;> shape=doublecircle]
+	"Clear Invoice_var1" -> end_node_var1
+	start_node_var2 [label=<&#9679;> shape=circle]
+	"Create Purchase Order Item_var2" [label="Create Purchase Order Item" shape=box style=filled]
+	start_node_var2 -> "Create Purchase Order Item_var2"
+	"Vendor creates invoice_var2" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var2" -> "Vendor creates invoice_var2"
+	"Record Invoice Receipt_var2" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var2" -> "Record Invoice Receipt_var2"
+	"Record Goods Receipt_var2" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Invoice Receipt_var2" -> "Record Goods Receipt_var2"
+	"Remove Payment Block_var2" [label="Remove Payment Block" shape=box style=filled]
+	"Record Goods Receipt_var2" -> "Remove Payment Block_var2"
+	"Clear Invoice_var2" [label="Clear Invoice" shape=box style=filled]
+	"Remove Payment Block_var2" -> "Clear Invoice_var2"
+	end_node_var2 [label=<&#9632;> shape=doublecircle]
+	"Clear Invoice_var2" -> end_node_var2
+	start_node_var3 [label=<&#9679;> shape=circle]
+	"Create Purchase Order Item_var3" [label="Create Purchase Order Item" shape=box style=filled]
+	start_node_var3 -> "Create Purchase Order Item_var3"
+	"Record Goods Receipt_var3" [label="Record Goods Receipt" shape=box style=filled]
+	"Create Purchase Order Item_var3" -> "Record Goods Receipt_var3"
+	"Vendor creates invoice_var3" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Goods Receipt_var3" -> "Vendor creates invoice_var3"
+	"Record Invoice Receipt_var3" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var3" -> "Record Invoice Receipt_var3"
+	"Clear Invoice_var3" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var3" -> "Clear Invoice_var3"
+	end_node_var3 [label=<&#9632;> shape=doublecircle]
+	"Clear Invoice_var3" -> end_node_var3
+	start_node_var4 [label=<&#9679;> shape=circle]
+	"Create Purchase Requisition Item_var4" [label="Create Purchase Requisition Item" shape=box style=filled]
+	start_node_var4 -> "Create Purchase Requisition Item_var4"
+	"Create Purchase Order Item_var4" [label="Create Purchase Order Item" shape=box style=filled]
+	"Create Purchase Requisition Item_var4" -> "Create Purchase Order Item_var4"
+	"Vendor creates invoice_var4" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var4" -> "Vendor creates invoice_var4"
+	"Record Goods Receipt_var4" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var4" -> "Record Goods Receipt_var4"
+	"Record Invoice Receipt_var4" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4" -> "Record Invoice Receipt_var4"
+	"Clear Invoice_var4" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var4" -> "Clear Invoice_var4"
+	end_node_var4 [label=<&#9632;> shape=doublecircle]
+	"Clear Invoice_var4" -> end_node_var4
+}

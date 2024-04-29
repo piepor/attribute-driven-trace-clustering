@@ -1,0 +1,375 @@
+digraph {
+	graph [rankdir=LR]
+	start_node_var0 [label="3 traces" shape=plaintext]
+	"Create Purchase Order Item_var0_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Vendor creates invoice_var0_step1" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var0_step0" -> "Vendor creates invoice_var0_step1"
+	"Record Goods Receipt_var0_step2" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var0_step1" -> "Record Goods Receipt_var0_step2"
+	"Record Goods Receipt_var0_step3" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step2" -> "Record Goods Receipt_var0_step3"
+	"Record Goods Receipt_var0_step4" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step3" -> "Record Goods Receipt_var0_step4"
+	"Record Goods Receipt_var0_step5" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step4" -> "Record Goods Receipt_var0_step5"
+	"Record Goods Receipt_var0_step6" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step5" -> "Record Goods Receipt_var0_step6"
+	"Record Goods Receipt_var0_step7" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step6" -> "Record Goods Receipt_var0_step7"
+	"Record Goods Receipt_var0_step8" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step7" -> "Record Goods Receipt_var0_step8"
+	"Record Goods Receipt_var0_step9" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step8" -> "Record Goods Receipt_var0_step9"
+	"Record Goods Receipt_var0_step10" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step9" -> "Record Goods Receipt_var0_step10"
+	"Record Goods Receipt_var0_step11" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step10" -> "Record Goods Receipt_var0_step11"
+	"Record Goods Receipt_var0_step12" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step11" -> "Record Goods Receipt_var0_step12"
+	"Record Goods Receipt_var0_step13" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step12" -> "Record Goods Receipt_var0_step13"
+	"Record Goods Receipt_var0_step14" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step13" -> "Record Goods Receipt_var0_step14"
+	"Record Goods Receipt_var0_step15" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step14" -> "Record Goods Receipt_var0_step15"
+	"Record Goods Receipt_var0_step16" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step15" -> "Record Goods Receipt_var0_step16"
+	"Record Goods Receipt_var0_step17" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step16" -> "Record Goods Receipt_var0_step17"
+	"Record Goods Receipt_var0_step18" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step17" -> "Record Goods Receipt_var0_step18"
+	"Record Goods Receipt_var0_step19" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step18" -> "Record Goods Receipt_var0_step19"
+	"Record Goods Receipt_var0_step20" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step19" -> "Record Goods Receipt_var0_step20"
+	"Record Goods Receipt_var0_step21" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step20" -> "Record Goods Receipt_var0_step21"
+	"Record Goods Receipt_var0_step22" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step21" -> "Record Goods Receipt_var0_step22"
+	"Record Goods Receipt_var0_step23" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step22" -> "Record Goods Receipt_var0_step23"
+	"Record Goods Receipt_var0_step24" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step23" -> "Record Goods Receipt_var0_step24"
+	"Record Goods Receipt_var0_step25" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step24" -> "Record Goods Receipt_var0_step25"
+	"Record Goods Receipt_var0_step26" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step25" -> "Record Goods Receipt_var0_step26"
+	"Record Goods Receipt_var0_step27" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step26" -> "Record Goods Receipt_var0_step27"
+	"Record Goods Receipt_var0_step28" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step27" -> "Record Goods Receipt_var0_step28"
+	"Record Goods Receipt_var0_step29" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step28" -> "Record Goods Receipt_var0_step29"
+	"Record Goods Receipt_var0_step30" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step29" -> "Record Goods Receipt_var0_step30"
+	"Record Goods Receipt_var0_step31" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step30" -> "Record Goods Receipt_var0_step31"
+	"Record Goods Receipt_var0_step32" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step31" -> "Record Goods Receipt_var0_step32"
+	"Record Invoice Receipt_var0_step33" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var0_step32" -> "Record Invoice Receipt_var0_step33"
+	"Vendor creates invoice_var0_step34" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Invoice Receipt_var0_step33" -> "Vendor creates invoice_var0_step34"
+	"Clear Invoice_var0_step35" [label="Clear Invoice" shape=box style=filled]
+	"Vendor creates invoice_var0_step34" -> "Clear Invoice_var0_step35"
+	"Clear Invoice_var0_step36" [label="Clear Invoice" shape=box style=filled]
+	"Clear Invoice_var0_step35" -> "Clear Invoice_var0_step36"
+	start_node_var1 [label="3 traces" shape=plaintext]
+	"Create Purchase Order Item_var1_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Vendor creates invoice_var1_step1" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var1_step0" -> "Vendor creates invoice_var1_step1"
+	"Record Goods Receipt_var1_step2" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var1_step1" -> "Record Goods Receipt_var1_step2"
+	"Record Goods Receipt_var1_step3" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step2" -> "Record Goods Receipt_var1_step3"
+	"Record Goods Receipt_var1_step4" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step3" -> "Record Goods Receipt_var1_step4"
+	"Record Goods Receipt_var1_step5" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step4" -> "Record Goods Receipt_var1_step5"
+	"Record Goods Receipt_var1_step6" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step5" -> "Record Goods Receipt_var1_step6"
+	"Record Goods Receipt_var1_step7" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step6" -> "Record Goods Receipt_var1_step7"
+	"Record Goods Receipt_var1_step8" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step7" -> "Record Goods Receipt_var1_step8"
+	"Record Goods Receipt_var1_step9" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step8" -> "Record Goods Receipt_var1_step9"
+	"Record Goods Receipt_var1_step10" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step9" -> "Record Goods Receipt_var1_step10"
+	"Record Goods Receipt_var1_step11" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step10" -> "Record Goods Receipt_var1_step11"
+	"Record Goods Receipt_var1_step12" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step11" -> "Record Goods Receipt_var1_step12"
+	"Record Goods Receipt_var1_step13" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step12" -> "Record Goods Receipt_var1_step13"
+	"Record Goods Receipt_var1_step14" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step13" -> "Record Goods Receipt_var1_step14"
+	"Record Goods Receipt_var1_step15" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step14" -> "Record Goods Receipt_var1_step15"
+	"Record Goods Receipt_var1_step16" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step15" -> "Record Goods Receipt_var1_step16"
+	"Record Goods Receipt_var1_step17" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step16" -> "Record Goods Receipt_var1_step17"
+	"Record Goods Receipt_var1_step18" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step17" -> "Record Goods Receipt_var1_step18"
+	"Record Goods Receipt_var1_step19" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step18" -> "Record Goods Receipt_var1_step19"
+	"Record Goods Receipt_var1_step20" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step19" -> "Record Goods Receipt_var1_step20"
+	"Record Goods Receipt_var1_step21" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step20" -> "Record Goods Receipt_var1_step21"
+	"Record Goods Receipt_var1_step22" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step21" -> "Record Goods Receipt_var1_step22"
+	"Record Goods Receipt_var1_step23" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step22" -> "Record Goods Receipt_var1_step23"
+	"Record Goods Receipt_var1_step24" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step23" -> "Record Goods Receipt_var1_step24"
+	"Record Goods Receipt_var1_step25" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step24" -> "Record Goods Receipt_var1_step25"
+	"Record Goods Receipt_var1_step26" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step25" -> "Record Goods Receipt_var1_step26"
+	"Record Goods Receipt_var1_step27" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step26" -> "Record Goods Receipt_var1_step27"
+	"Record Goods Receipt_var1_step28" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step27" -> "Record Goods Receipt_var1_step28"
+	"Record Goods Receipt_var1_step29" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step28" -> "Record Goods Receipt_var1_step29"
+	"Record Goods Receipt_var1_step30" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step29" -> "Record Goods Receipt_var1_step30"
+	"Record Goods Receipt_var1_step31" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step30" -> "Record Goods Receipt_var1_step31"
+	"Record Goods Receipt_var1_step32" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var1_step31" -> "Record Goods Receipt_var1_step32"
+	"Vendor creates invoice_var1_step33" [label="Vendor creates invoice" shape=box style=filled]
+	"Record Goods Receipt_var1_step32" -> "Vendor creates invoice_var1_step33"
+	"Record Invoice Receipt_var1_step34" [label="Record Invoice Receipt" shape=box style=filled]
+	"Vendor creates invoice_var1_step33" -> "Record Invoice Receipt_var1_step34"
+	"Clear Invoice_var1_step35" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var1_step34" -> "Clear Invoice_var1_step35"
+	"Clear Invoice_var1_step36" [label="Clear Invoice" shape=box style=filled]
+	"Clear Invoice_var1_step35" -> "Clear Invoice_var1_step36"
+	start_node_var2 [label="3 traces" shape=plaintext]
+	"Create Purchase Requisition Item_var2_step0" [label="Create Purchase Requisition Item" shape=box style=filled]
+	"Create Purchase Order Item_var2_step1" [label="Create Purchase Order Item" shape=box style=filled]
+	"Create Purchase Requisition Item_var2_step0" -> "Create Purchase Order Item_var2_step1"
+	"Vendor creates invoice_var2_step2" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var2_step1" -> "Vendor creates invoice_var2_step2"
+	"Record Goods Receipt_var2_step3" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var2_step2" -> "Record Goods Receipt_var2_step3"
+	"Record Goods Receipt_var2_step4" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step3" -> "Record Goods Receipt_var2_step4"
+	"Record Goods Receipt_var2_step5" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step4" -> "Record Goods Receipt_var2_step5"
+	"Record Goods Receipt_var2_step6" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step5" -> "Record Goods Receipt_var2_step6"
+	"Record Goods Receipt_var2_step7" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step6" -> "Record Goods Receipt_var2_step7"
+	"Record Goods Receipt_var2_step8" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step7" -> "Record Goods Receipt_var2_step8"
+	"Record Goods Receipt_var2_step9" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step8" -> "Record Goods Receipt_var2_step9"
+	"Record Goods Receipt_var2_step10" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step9" -> "Record Goods Receipt_var2_step10"
+	"Record Goods Receipt_var2_step11" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step10" -> "Record Goods Receipt_var2_step11"
+	"Record Goods Receipt_var2_step12" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step11" -> "Record Goods Receipt_var2_step12"
+	"Record Goods Receipt_var2_step13" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step12" -> "Record Goods Receipt_var2_step13"
+	"Record Goods Receipt_var2_step14" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step13" -> "Record Goods Receipt_var2_step14"
+	"Record Goods Receipt_var2_step15" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step14" -> "Record Goods Receipt_var2_step15"
+	"Record Goods Receipt_var2_step16" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step15" -> "Record Goods Receipt_var2_step16"
+	"Record Goods Receipt_var2_step17" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step16" -> "Record Goods Receipt_var2_step17"
+	"Record Goods Receipt_var2_step18" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step17" -> "Record Goods Receipt_var2_step18"
+	"Record Goods Receipt_var2_step19" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step18" -> "Record Goods Receipt_var2_step19"
+	"Record Goods Receipt_var2_step20" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step19" -> "Record Goods Receipt_var2_step20"
+	"Record Goods Receipt_var2_step21" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step20" -> "Record Goods Receipt_var2_step21"
+	"Record Goods Receipt_var2_step22" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step21" -> "Record Goods Receipt_var2_step22"
+	"Record Goods Receipt_var2_step23" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step22" -> "Record Goods Receipt_var2_step23"
+	"Record Goods Receipt_var2_step24" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step23" -> "Record Goods Receipt_var2_step24"
+	"Record Goods Receipt_var2_step25" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step24" -> "Record Goods Receipt_var2_step25"
+	"Record Goods Receipt_var2_step26" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step25" -> "Record Goods Receipt_var2_step26"
+	"Record Goods Receipt_var2_step27" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step26" -> "Record Goods Receipt_var2_step27"
+	"Record Goods Receipt_var2_step28" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step27" -> "Record Goods Receipt_var2_step28"
+	"Record Goods Receipt_var2_step29" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step28" -> "Record Goods Receipt_var2_step29"
+	"Record Goods Receipt_var2_step30" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step29" -> "Record Goods Receipt_var2_step30"
+	"Record Goods Receipt_var2_step31" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step30" -> "Record Goods Receipt_var2_step31"
+	"Record Goods Receipt_var2_step32" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step31" -> "Record Goods Receipt_var2_step32"
+	"Record Goods Receipt_var2_step33" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step32" -> "Record Goods Receipt_var2_step33"
+	"Record Goods Receipt_var2_step34" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step33" -> "Record Goods Receipt_var2_step34"
+	"Record Goods Receipt_var2_step35" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step34" -> "Record Goods Receipt_var2_step35"
+	"Record Invoice Receipt_var2_step36" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var2_step35" -> "Record Invoice Receipt_var2_step36"
+	start_node_var3 [label="6 traces" shape=plaintext]
+	"Create Purchase Requisition Item_var3_step0" [label="Create Purchase Requisition Item" shape=box style=filled]
+	"Create Purchase Order Item_var3_step1" [label="Create Purchase Order Item" shape=box style=filled]
+	"Create Purchase Requisition Item_var3_step0" -> "Create Purchase Order Item_var3_step1"
+	"Vendor creates invoice_var3_step2" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var3_step1" -> "Vendor creates invoice_var3_step2"
+	"Record Goods Receipt_var3_step3" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var3_step2" -> "Record Goods Receipt_var3_step3"
+	"Record Goods Receipt_var3_step4" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step3" -> "Record Goods Receipt_var3_step4"
+	"Record Goods Receipt_var3_step5" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step4" -> "Record Goods Receipt_var3_step5"
+	"Record Goods Receipt_var3_step6" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step5" -> "Record Goods Receipt_var3_step6"
+	"Record Goods Receipt_var3_step7" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step6" -> "Record Goods Receipt_var3_step7"
+	"Record Goods Receipt_var3_step8" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step7" -> "Record Goods Receipt_var3_step8"
+	"Record Goods Receipt_var3_step9" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step8" -> "Record Goods Receipt_var3_step9"
+	"Record Goods Receipt_var3_step10" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step9" -> "Record Goods Receipt_var3_step10"
+	"Record Goods Receipt_var3_step11" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step10" -> "Record Goods Receipt_var3_step11"
+	"Record Goods Receipt_var3_step12" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step11" -> "Record Goods Receipt_var3_step12"
+	"Record Goods Receipt_var3_step13" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step12" -> "Record Goods Receipt_var3_step13"
+	"Record Goods Receipt_var3_step14" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step13" -> "Record Goods Receipt_var3_step14"
+	"Record Goods Receipt_var3_step15" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step14" -> "Record Goods Receipt_var3_step15"
+	"Record Goods Receipt_var3_step16" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step15" -> "Record Goods Receipt_var3_step16"
+	"Record Goods Receipt_var3_step17" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step16" -> "Record Goods Receipt_var3_step17"
+	"Record Goods Receipt_var3_step18" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step17" -> "Record Goods Receipt_var3_step18"
+	"Record Goods Receipt_var3_step19" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step18" -> "Record Goods Receipt_var3_step19"
+	"Record Goods Receipt_var3_step20" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step19" -> "Record Goods Receipt_var3_step20"
+	"Record Goods Receipt_var3_step21" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step20" -> "Record Goods Receipt_var3_step21"
+	"Record Goods Receipt_var3_step22" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step21" -> "Record Goods Receipt_var3_step22"
+	"Record Goods Receipt_var3_step23" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step22" -> "Record Goods Receipt_var3_step23"
+	"Record Goods Receipt_var3_step24" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step23" -> "Record Goods Receipt_var3_step24"
+	"Record Goods Receipt_var3_step25" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step24" -> "Record Goods Receipt_var3_step25"
+	"Record Goods Receipt_var3_step26" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step25" -> "Record Goods Receipt_var3_step26"
+	"Record Goods Receipt_var3_step27" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step26" -> "Record Goods Receipt_var3_step27"
+	"Record Goods Receipt_var3_step28" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step27" -> "Record Goods Receipt_var3_step28"
+	"Record Goods Receipt_var3_step29" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step28" -> "Record Goods Receipt_var3_step29"
+	"Record Goods Receipt_var3_step30" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step29" -> "Record Goods Receipt_var3_step30"
+	"Record Goods Receipt_var3_step31" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step30" -> "Record Goods Receipt_var3_step31"
+	"Record Goods Receipt_var3_step32" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step31" -> "Record Goods Receipt_var3_step32"
+	"Record Goods Receipt_var3_step33" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step32" -> "Record Goods Receipt_var3_step33"
+	"Record Goods Receipt_var3_step34" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step33" -> "Record Goods Receipt_var3_step34"
+	"Record Goods Receipt_var3_step35" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step34" -> "Record Goods Receipt_var3_step35"
+	"Record Invoice Receipt_var3_step36" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var3_step35" -> "Record Invoice Receipt_var3_step36"
+	"Clear Invoice_var3_step37" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var3_step36" -> "Clear Invoice_var3_step37"
+	start_node_var4 [label="18 traces" shape=plaintext]
+	"Create Purchase Order Item_var4_step0" [label="Create Purchase Order Item" shape=box style=filled]
+	"Vendor creates invoice_var4_step1" [label="Vendor creates invoice" shape=box style=filled]
+	"Create Purchase Order Item_var4_step0" -> "Vendor creates invoice_var4_step1"
+	"Record Goods Receipt_var4_step2" [label="Record Goods Receipt" shape=box style=filled]
+	"Vendor creates invoice_var4_step1" -> "Record Goods Receipt_var4_step2"
+	"Record Goods Receipt_var4_step3" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step2" -> "Record Goods Receipt_var4_step3"
+	"Record Goods Receipt_var4_step4" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step3" -> "Record Goods Receipt_var4_step4"
+	"Record Goods Receipt_var4_step5" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step4" -> "Record Goods Receipt_var4_step5"
+	"Record Goods Receipt_var4_step6" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step5" -> "Record Goods Receipt_var4_step6"
+	"Record Goods Receipt_var4_step7" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step6" -> "Record Goods Receipt_var4_step7"
+	"Record Goods Receipt_var4_step8" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step7" -> "Record Goods Receipt_var4_step8"
+	"Record Goods Receipt_var4_step9" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step8" -> "Record Goods Receipt_var4_step9"
+	"Record Goods Receipt_var4_step10" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step9" -> "Record Goods Receipt_var4_step10"
+	"Record Goods Receipt_var4_step11" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step10" -> "Record Goods Receipt_var4_step11"
+	"Record Goods Receipt_var4_step12" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step11" -> "Record Goods Receipt_var4_step12"
+	"Record Goods Receipt_var4_step13" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step12" -> "Record Goods Receipt_var4_step13"
+	"Record Goods Receipt_var4_step14" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step13" -> "Record Goods Receipt_var4_step14"
+	"Record Goods Receipt_var4_step15" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step14" -> "Record Goods Receipt_var4_step15"
+	"Record Goods Receipt_var4_step16" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step15" -> "Record Goods Receipt_var4_step16"
+	"Record Goods Receipt_var4_step17" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step16" -> "Record Goods Receipt_var4_step17"
+	"Record Goods Receipt_var4_step18" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step17" -> "Record Goods Receipt_var4_step18"
+	"Record Goods Receipt_var4_step19" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step18" -> "Record Goods Receipt_var4_step19"
+	"Record Goods Receipt_var4_step20" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step19" -> "Record Goods Receipt_var4_step20"
+	"Record Goods Receipt_var4_step21" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step20" -> "Record Goods Receipt_var4_step21"
+	"Record Goods Receipt_var4_step22" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step21" -> "Record Goods Receipt_var4_step22"
+	"Record Goods Receipt_var4_step23" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step22" -> "Record Goods Receipt_var4_step23"
+	"Record Goods Receipt_var4_step24" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step23" -> "Record Goods Receipt_var4_step24"
+	"Record Goods Receipt_var4_step25" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step24" -> "Record Goods Receipt_var4_step25"
+	"Record Goods Receipt_var4_step26" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step25" -> "Record Goods Receipt_var4_step26"
+	"Record Goods Receipt_var4_step27" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step26" -> "Record Goods Receipt_var4_step27"
+	"Record Goods Receipt_var4_step28" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step27" -> "Record Goods Receipt_var4_step28"
+	"Record Goods Receipt_var4_step29" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step28" -> "Record Goods Receipt_var4_step29"
+	"Record Goods Receipt_var4_step30" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step29" -> "Record Goods Receipt_var4_step30"
+	"Record Goods Receipt_var4_step31" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step30" -> "Record Goods Receipt_var4_step31"
+	"Record Goods Receipt_var4_step32" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step31" -> "Record Goods Receipt_var4_step32"
+	"Record Goods Receipt_var4_step33" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step32" -> "Record Goods Receipt_var4_step33"
+	"Record Goods Receipt_var4_step34" [label="Record Goods Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step33" -> "Record Goods Receipt_var4_step34"
+	"Record Invoice Receipt_var4_step35" [label="Record Invoice Receipt" shape=box style=filled]
+	"Record Goods Receipt_var4_step34" -> "Record Invoice Receipt_var4_step35"
+	"Clear Invoice_var4_step36" [label="Clear Invoice" shape=box style=filled]
+	"Record Invoice Receipt_var4_step35" -> "Clear Invoice_var4_step36"
+}
