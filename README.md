@@ -8,10 +8,10 @@ Requirements are in the file "*requirements.txt", to install with pip:
 ```
 
 Event logs available:
-- Business Process Intelligence Challenge 2012 --> bpic2012 
-- Business Process Intelligence Challenge 2017 --> bpic2017 
-- Business Process Intelligence Challenge 2019 --> bpic2019 
-- Road Traffic Fine Management Process --> fines 
+- Business Process Intelligence Challenge 2012 &rarr bpic2012 
+- Business Process Intelligence Challenge 2017 &rarr bpic2017 
+- Business Process Intelligence Challenge 2019 &rarr bpic2019 
+- Road Traffic Fine Management Process &rarr fines 
 
 ## Visualize results
 To visualize the results, use the mode "*vis*" with the desired dataset. For example for *bpic2012*:
