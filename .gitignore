@@ -3,6 +3,7 @@ __pycache__/
 __pycache__/**
 # python environment
 .python-version
+pyrightconfig.json
 
 road_traffic_fine_management_process.xes
 BPI_Challenge_2012.xes
