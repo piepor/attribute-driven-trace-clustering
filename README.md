@@ -1,6 +1,12 @@
 # Attribute-Driven Trace Clustering
 
 Code to reproduce the results of the chapter "*Attribute-Driven Trace Clustering*" of the thesis "*Machine Learning for Probabilistic and Attributes-Aware Process Mining*".
+Requirements are in the file "*requirements.txt", to install with pip:
+
+```
+[~]$ pip install requirements.txt
+```
+
 Event logs available:
 - Business Process Intelligence Challenge 2012 --> bpic2012 
 - Business Process Intelligence Challenge 2017 --> bpic2017 
