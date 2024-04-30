@@ -33,8 +33,8 @@ fig.update_yaxes(showgrid=True, gridwidth=0.1, griddash='dash', gridcolor='black
 fig.update_xaxes(showline=True, linewidth=2, linecolor='black')
 fig.update_layout(paper_bgcolor='rgba(0, 0, 0, 0)', plot_bgcolor='rgba(0, 0, 0, 0)')
 fig.show()
-fig.write_html('payments-low-vs-medium-high.html')
-fig.write_image('payments-low-vs-medium-high.svg')
+fig.write_html('./figures-analysis-fines/payments-low-vs-medium-high.html')
+fig.write_image('./figures-analysis-fines/payments-low-vs-medium-high.svg')
 
 # Appeal between low and medium high
 appeal_low = log_low.groupby('case:concept:name').apply(lambda x: len(set(['Appeal to Judge', 'Send Appeal to Prefecture']).intersection(set(x['concept:name'].tolist()))) > 0)
@@ -89,8 +89,8 @@ fig.update_yaxes(showgrid=True, gridwidth=0.1, griddash='dash', gridcolor='black
 fig.update_xaxes(showline=True, linewidth=2, linecolor='black')
 fig.update_layout(paper_bgcolor='rgba(0, 0, 0, 0)', plot_bgcolor='rgba(0, 0, 0, 0)')
 fig.show()
-fig.write_html('payments-points-judge-vs-no-judge.html')
-fig.write_image('payments-points-judge-vs-no-judge.svg')
+fig.write_html('./figures-analysis-fines/payments-points-judge-vs-no-judge.html')
+fig.write_image('./figures-analysis-fines/payments-points-judge-vs-no-judge.svg')
 
 # appeal to judge without appeal to prefecture between points/no points in medium high
 cases_no_points = log_medium_high[(log_medium_high['concept:name'] == 'Create Fine') & (log_medium_high['points'] == 0)]['case:concept:name'].tolist()
